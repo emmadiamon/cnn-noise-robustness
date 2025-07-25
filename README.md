@@ -18,10 +18,11 @@ This project investigates the robustness of Convolutional Neural Networks (CNNs)
 - Model evaluation with confusion matrices and performance plots
 
 ## Project Structure
-├── CV_Project_Implementation.ipynb # Baseline training and noise evaluation
-├── Modification_of_CV_Project.ipynb # Denoising autoencoder and enhanced training
-├── figures/ # Visualizations (e.g., accuracy/loss plots, confusion matrices)
-└── README.md
+- CV_Project_Implementation.ipynb # Baseline training and noise evaluation
+- Modification_of_CV_Project.ipynb # Denoising autoencoder and enhanced training\
+- figures/ # Visualizations (e.g., accuracy/loss plots, confusion matrices)
+- README.md
+  
 ## Dataset
 
 - [Rice Image Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/rice-image-dataset)
